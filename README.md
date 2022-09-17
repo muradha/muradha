@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me **mhdrizki098@gmail.com**
+- 📫 How to reach me **iniemailnyarizki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
