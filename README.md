@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muradha&label=Profile%20views&color=0e75b6&style=flat" alt="muradha" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **mhdrizki098@gmail.com**
 
