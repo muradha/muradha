@@ -1,3 +1,4 @@
+[![@chelicerio's Holopin board](https://holopin.io/api/user/board?user=chelicerio)](https://holopin.io/@chelicerio)
 # 💫 About Me:
 🌱 I’m currently learning Node JS<br>💬 Ask me about React JS<br>📫 How to reach me iniemailnyarizki@gmail.com
 
@@ -14,9 +15,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muradha&icon=5&color=5)](https://visitcount.itsvg.in)
