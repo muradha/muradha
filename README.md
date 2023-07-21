@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Node JS<br>💬 Ask me about React JS<br>📫 How to reach me iniemailnyarizki@gmail.com
+🌱 I’m currently learning Node JS<br>💬 Ask me about Laravel<br>📫 How to reach me iniemailnyarizki@gmail.com
 
 
 ## 🌐 Socials:
