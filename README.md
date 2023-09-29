@@ -1,4 +1,4 @@
-![readmebox](https://github.com/muradha/muradha/assets/63029812/051e27aa-2e51-4ae7-b60f-bea182a89ed8)
+[![An image of @chelicerio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chelicerio)](https://holopin.io/@chelicerio)
 # 💫 About Me:
 🌱 I’m currently learning Node JS<br>💬 Ask me about Laravel<br>📫 How to reach me iniemailnyarizki@gmail.com
 
