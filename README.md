@@ -1,6 +1,6 @@
 [![An image of @chelicerio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chelicerio)](https://holopin.io/@chelicerio)
 # 💫 About Me:
-🌱 I’m currently learning Node JS<br>💬 Ask me about Laravel<br>📫 How to reach me iniemailnyarizki@gmail.com
+🌱 I’m currently learning Node JS<br>💬 Ask me about Laravel<br>📫 How to reach me mhdrizki098@gmail.com
 
 
 ## 🌐 Socials:
